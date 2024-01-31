@@ -1,4 +1,4 @@
-- Hi im @Ezeroxp a Computer science student prom northern spain
+- Hi im @Ezeroxp a Computer science student from northern spain
 -  I’m interested in videogames and translating games. I'm also interested in learning how to hombrew different consoles especially the ps vita.
 -  I’m currently learning Japanese and finishing my degree in computer science
 -  I’m looking to collaborate on projects involving the ps vita
