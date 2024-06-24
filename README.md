@@ -1,5 +1,5 @@
 - Hi im @Ezeroxp a Computer science student from northern spain
--  I’m interested in videogames and translating games. I'm also interested in learning how to hombrew different consoles.
+-  I’m interested in videogames and translating games. I'm also interested in learning how to homebrew different consoles.
 -  I’m currently learning Japanese and finishing my degree in computer science
 -  I like game design and programming
 
