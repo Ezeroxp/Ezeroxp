@@ -1,0 +1,8 @@
+[user]
+	name = Xabier Pascal
+	email = xabier.pascal@540deg.com
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	unstash = stash pop
+[core]
+	excludsfile = .gitignore_global
