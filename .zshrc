@@ -1,9 +1,10 @@
+autoload -U colors && colors
 alias ll="ls -l"
 alias la="ls -la"
 alias cdc="cd $HOME/Code"
 alias ..="cd .."
 alias ...="cd ../.."
-
+alias al="echo 'es la inutil'"
 alias gaa="git add -A"
 alias gc="git commit"
 alias gs="git status"
@@ -11,6 +12,8 @@ alias gf="git fetch --all -p"
 alias gps="git push"
 alias gpl="git pull --rebase --autostash"
 alias gb="git branch"
+alias ga="git add"
+alias go="git checkout"
 
 function docker_list {
   containers=$(docker ps awk '{if (NR!=1) print $1 ": " $(NF)}')
@@ -34,3 +37,5 @@ _reverse_search() {
 
 zle -N _reverse_search
 bindkey '^r' _reverse_search
+
+PROMPT='%F{green}%d%f ~ %# '
