@@ -1,8 +1,9 @@
 [user]
-	name = Xabier Pascal
+	name = ******
 	email = ******
 [alias]
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
 	unstash = stash pop
+        lo = log --oneline
 [core]
 	excludsfile = .gitignore_global
